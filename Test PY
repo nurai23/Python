@@ -8,3 +8,4 @@ def my_function():
 my_function()
 print("hello world")
 print("hello world")
+print()
