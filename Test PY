@@ -7,3 +7,4 @@ def my_function():
         some_function_name_from_me() #I'am calling function here
 my_function()
 print("hello world")
+print("hello world")
